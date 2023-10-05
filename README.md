@@ -16,7 +16,7 @@ Modules required:
 Steps to run the project:
 1. Download the Zipped file.
 2. Extract the file.
-3. Click on run.exe file. It is an executable file.
+3. Click on run.bat file. It is an executable file.
 4. A tkinter GUI is opened.
 5. CLick on the upload Dataset button, and upload your dataset.
 6. Click on pre-process data. The data will be processed.
